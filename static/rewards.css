@@ -1,0 +1,21 @@
+.reward {
+            border: 1px solid #ccc;
+            padding: 20px;
+            margin: 20px;
+            text-align: center;
+        }
+.reward img {
+    width: 100px;
+    height: auto;
+}
+.reward button {
+        padding: 10px 20px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        cursor: pointer;
+}
+
+.reward button:hover {
+    background-color: #45a049;
+}
